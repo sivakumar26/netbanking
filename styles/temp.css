@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+.lnk_footer {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #666666; FONT-FAMILY: arial, verdana, helvetica, sans-serif; TEXT-DECORATION: none
+}
+a.lnk_footer:hover { text-shadow:#6CF;
+	TEXT-DECORATION: underline
+}
+div.t { font-family:Arial, Helvetica, sans-serif; font-size:24px; text-align:center; text-decoration:none; }

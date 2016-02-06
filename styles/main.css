@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+<!--
+* {
+	margin: 0;
+	padding: 0;
+}
+
+a { color:#000 }
+a:hover { color:#009  }
+
+div.content { font-family:Arial, Helvetica, sans-serif; font-size:1em; azimuth:center 
+}
+
+p,ul {padding-bottom: 0.5em; font-size:12px; }
+
+/* sub navigation */
+.sidenav {
+	float: left;
+	width: 180px;
+}
+.sidenav h2 { color:#000;
+		font-size: .8em;
+	line-height: 30px;
+	margin: 0;
+	padding-left: 12px;
+}
+.sidenav ul {
+	padding: 0;
+	border-top: 1px solid #EAEADA;
+}
+.sidenav li {border-bottom: 1px solid #EAEADA;}
+.sidenav li a {
+	font-size: 1em; color:#FFF;
+	display: block;
+	padding: 8px 0 8px 5%;
+	text-decoration: none;
+	width: 95%;
+}
+.sidenav li a:hover { 
+	background: #F0F0EB;
+	color: #654;	
+}
+
+.content li {
+	list-style: url(img/li.gif);
+	margin-left: 18px;
+}
+
+-->
